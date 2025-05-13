@@ -127,10 +127,7 @@ HopesAlive is dedicated to creating a more compassionate world for street animal
 ## 🚀 Getting Started Locally  
 
 ### 1. Clone the Repository  
-```bash
-git clone https://github.com/MadhavDhatrak/HopesAlive.git
-cd HopesAlive
-```
+
 ### 2. Configure Environment Variables
 ```bash 
 Create a .env file in the root directory and include the following:

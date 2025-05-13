@@ -35,9 +35,6 @@ HopesAlive is a comprehensive platform that connects concerned citizens, volunte
 
 Users can log in in three ways: as a citizen, volunteer, or NGO.
 
-### Sign Up
-
-
 ### Documentation with DocuSign
 
 For volunteers and NGOs, we have integrated official documentation with DocuSign.
@@ -46,8 +43,6 @@ For volunteers and NGOs, we have integrated official documentation with DocuSign
 Upon clicking "Sign Document," users are redirected to the DocuSign page for e-signature.
 Once completed, profiles are activated:
 
-![NGO Registration](https://i.imgur.com/KmuAG7r.jpeg)
-![NGO Documentation](https://i.imgur.com/iyPexqi.jpeg)
 
 ### Report Incidents
 Reporting an incident is simple:
